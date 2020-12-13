@@ -12,4 +12,4 @@
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: You're fabulous!
 
-![dy55's github stats](https://github-readme-stats.vercel.app/api?username=dy55&show_icons=true&theme=tokyonight)
+![dy55's github stats](https://github-readme-stats.vercel.app/api?username=chardon55&show_icons=true&theme=tokyonight)
