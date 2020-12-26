@@ -8,7 +8,7 @@
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 -->
-- 📫 How to reach me: dongyue_2000@outlook.com
+- 📫 How to reach me: charlesdong_2000@outlook.com
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: You're fabulous!
 
