@@ -12,4 +12,4 @@
 - 💬 Ask me about ...
 -->
 
-![dy55's github stats](https://github-readme-stats.vercel.app/api?username=chardon55&show_icons=true&theme=tokyonight)
+![chardon55's github stats](https://github-readme-stats.vercel.app/api?username=chardon55&show_icons=true&theme=tokyonight)
