@@ -4,7 +4,7 @@
 
 - 🧑 I'm Charles Dong
 - 👨‍🎓 I’m currently a student at [Qingdao University](https://www.qdu.edu.cn/)
-- 🌱 I’m currently learning Software Engineering👩‍💻(My major), English🗽(For TOEFL iBT) and Japanese🎎
+- 🌱 I’m currently learning my major👩‍💻, [ML](http://en.wikipedia.org/wiki/Machine_learning), [CV](http://en.wikipedia.org/wiki/Computer_vision), English🗽(For TOEFL iBT) and Japanese🎎
 - 📫 How to reach me: charlesdong_2000@outlook.com
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: You're fabulous!
