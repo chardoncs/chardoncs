@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<image src="./images/tuxturns30_1000.jpg" height="250px" align="right" />
+
 - 🧑 I'm Charles Dong
 - 👨‍🎓 I’m currently a student at [Qingdao University](https://www.qdu.edu.cn/)
 - 🌱 I’m currently learning Software Engineering👩‍💻(My major), English🗽(For TOEFL iBT) and Japanese🎎
