@@ -14,6 +14,6 @@
 - 💬 Ask me about ...
 -->
 
-[![chardon55's github stats](https://github-readme-stats.vercel.app/api?username=chardon55&show_icons=true&bg_color=25,00132c,003247&text_color=e0f7fa&title_color=fce4ec&icon_color=f186c0)](./)
+[![chardon55's github stats](https://github-readme-stats.vercel.app/api?username=chardon55&show_icons=true&bg_color=25,00132c,003247&text_color=e0f7fa&title_color=fce4ec&icon_color=f186c0)](https://github.com/chardon55)
 
-[![chardon55's top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chardon55&layout=compact&bg_color=-25,00132c,003247&text_color=ffffff&title_color=fce4ec)](./)
+[![chardon55's top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chardon55&layout=compact&bg_color=-25,00132c,003247&text_color=ffffff&title_color=fce4ec)](https://github.com/chardon55)
