@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[<img src="./images/tuxturns30_1000.jpg" height="250px" align="right" />](https://www.linuxfoundation.org/en/linux30th/)
+[<img src="./images/tuxturns30_1000.png" height="250px" align="right" />](https://www.linuxfoundation.org/en/linux30th/)
 
 - 🧑 I'm Charles Dong
 - 👨‍🎓 I’m currently a student at [Qingdao University](https://www.qdu.edu.cn/)
