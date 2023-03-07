@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🧑 I'm Charles Dong
-- 👨‍💻 I'm currently working as a Software Engineer at [ReSource Pro](https://resourcepro.com/) Qingdao.
+- 👨‍💻 I'm currently working at [ReSource Pro](https://resourcepro.com/) Qingdao as a Software Engineer.
 - 👨‍🎓 I graduated from [Qingdao University](https://www.qdu.edu.cn/)
 - 🌱 I’m currently learning [ML🤖](http://en.wikipedia.org/wiki/Machine_learning), [CV👀](http://en.wikipedia.org/wiki/Computer_vision), statistics📈, <!--English🗽(For TOEFL iBT)--> and Japanese🎎
 - 📫 How to reach me: charlesdong_2000@outlook.com
