@@ -7,7 +7,7 @@
 - 📫 How to reach me: charlesdong_2000@outlook.com
 - 😄 Pronouns: he/him/his
 
-#### ⚡ Fun fact
+#### ⚡ Fun facts
 
 - 🗣️ Natural Languages:
   - Mandarin🇨🇳 (Native)
@@ -16,17 +16,8 @@
 - 🎶 Fav music genre: J-Pop🫰
 - 🎙️ Fav artists: [Ikuta Lilas](https://jpop.fandom.com/wiki/Ikuta_Lilas)-san & [Nishino Kana](https://jpop.fandom.com/wiki/Nishino_Kana)-san ~
 - 🖌️ Fav colors: Blue, green... (No idea...😂)
-- 🖥️ Recently doing:
-  - Learning Go
-  - Maintaining my libs
-  - Researching [Rust](https://rustlang.org) & [Deno](https://deno.land)
-<!--
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
--->
 
 ![chardon55's github stats](https://github-readme-stats.vercel.app/api?username=chardon55&show_icons=true&bg_color=25,00132c,003247&text_color=e0f7fa&title_color=fce4ec&icon_color=f186c0)
 ![chardon55's top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chardon55&layout=compact&bg_color=-25,00132c,003247&text_color=ffffff&title_color=fce4ec)
 
-> Readme version: v2.0
+> Readme version: v2.1
