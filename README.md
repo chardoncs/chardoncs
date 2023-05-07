@@ -5,7 +5,7 @@ charlesDong := map[string]interface{}{
     "👨‍💻 occupation":         "Software Engineer",
     "🚀 currently doing":    "Daily hacking here on GitHub in my spare time to help make the world a better place!",
     "🔬 recently exploring": []string{"Go", "Rust", "Deno", "..."},
-    "😄 invalid pronouns":   []string{"he", "him", "his"},
+    "😄 pronouns":          []string{"he", "him", "his"},
 }
 ```
 
