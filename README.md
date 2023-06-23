@@ -13,9 +13,6 @@ charlesDong := map[string]interface{}{
 
 - 🗣️ Natural languages: Mandarin🇨🇳 (native), English🇺🇸, and Japanese🇯🇵
 - 👕 Brand of outfit worn in the avatar: Uniqlo!!!😎
-- 🎶 Fav music:
-  - genre: J-Pop🫰
-  - artists: [Ikuta Lilas](https://jpop.fandom.com/wiki/Ikuta_Lilas)-san & [Nishino Kana](https://jpop.fandom.com/wiki/Nishino_Kana)-san ~
 - 🔭 Fav field other than [CS](https://en.wikipedia.org/wiki/Computer_science): Astronomy!🪐
 
 #### 📊 My Stats
@@ -23,4 +20,4 @@ charlesDong := map[string]interface{}{
 ![chardon55's github stats](https://github-readme-stats.vercel.app/api?username=chardon55&show_icons=true&bg_color=25,00132c,003247&text_color=e0f7fa&title_color=fce4ec&icon_color=f186c0)
 ![chardon55's top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chardon55&layout=compact&bg_color=-25,00132c,003247&text_color=ffffff&title_color=fce4ec)
 
-> Readme version: v2.5
+> Readme version: v2.6
