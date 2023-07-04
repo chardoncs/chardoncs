@@ -2,8 +2,7 @@
 
 ```Go
 charlesDong := map[string]interface{}{
-    "👨‍💻 occupation":         "Software Engineer",
-    "🚀 currently doing":    "Daily hacking here on GitHub in my spare time to help make the world a better place!",
+    "🚀 currently doing":    "(Re)fight for my future!",
     "🔬 recently exploring": []string{"Go", "Rust", "Deno", "..."},
     "😄 valid pronouns":     []string{"he", "him", "his"},
 }
