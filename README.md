@@ -14,7 +14,7 @@ charlesDong := map[string]interface{}{
 
 #### 📊 My Stats
 
-![chardon55's github stats](https://github-readme-stats.vercel.app/api?username=chardon55&show_icons=true&bg_color=25,00132c,003247&text_color=e0f7fa&title_color=fce4ec&icon_color=f186c0)
-![chardon55's top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chardon55&layout=compact&bg_color=-25,00132c,003247&text_color=ffffff&title_color=fce4ec)
+![chardoncs's github stats](https://github-readme-stats.vercel.app/api?username=chardoncs&show_icons=true&bg_color=25,00132c,003247&text_color=e0f7fa&title_color=fce4ec&icon_color=f186c0)
+![chardoncs's top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chardoncs&layout=compact&bg_color=-25,00132c,003247&text_color=ffffff&title_color=fce4ec)
 
-> Readme version: v2.7
+> Readme version: v2.8
