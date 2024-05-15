@@ -3,7 +3,7 @@
 ```Go
 charlesDong := map[string]interface{}{
     "🚀 currently doing":    "(Re)fight for my future!",
-    "🔬 recently exploring": []string{"Codeberg!"},
+    "🔬 recently exploring": []string{"Codeberg!", "Zig"},
     "😄 valid pronouns":     []string{"he", "him", "his"},
 }
 ```
