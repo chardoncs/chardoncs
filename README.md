@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 > [!NOTE]
-> I'm currently planning to migrate to [Codeberg](https://codeberg.org/chardon_cs) during June and July, after my three final exams this semester are settled.
+> I'm currently planning to migrate to [Codeberg](https://codeberg.org/chardon_cs) during June and July, after my three final exams and one final coursework this semester are settled.
 
 ```Go
 charlesDong := map[string]interface{}{
