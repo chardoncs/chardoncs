@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-> [!IMPORTANT]
-> I'm currently planning to migrate to [Codeberg](https://codeberg.org/chardon_cs) during June and July, after my three final exams and one final coursework this semester are settled.
->
-> The [Cosviewer](https://github.com/cosgazer) project (a crowdsourcing astronomical dataset labeling website) will stay on GitHub.
-
 ```Go
 charlesDong := map[string]interface{}{
     "🚀 currently doing":    "(Re)fight for my future!",
