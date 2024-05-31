@@ -3,7 +3,7 @@
 > [!NOTE]
 > I'm currently planning to migrate to [Codeberg](https://codeberg.org/chardon_cs) during June and July, after my three final exams and one final coursework this semester are settled.
 >
-> The [Cosviewer](https://github.com/cosgazer) project will remain on GitHub.
+> The [Cosviewer](https://github.com/cosgazer) project will stay on GitHub.
 
 ```Go
 charlesDong := map[string]interface{}{
