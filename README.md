@@ -8,7 +8,7 @@
 
 [![Language Icons](https://skillicons.dev/icons?i=c,cpp,rust,go,js,ts,python,bash,lua,julia,ruby,zig)](https://skillicons.dev)
 
-[![Tool Icons](https://skillicons.dev/icons?i=pytorch,sklearn,opencv,nextjs,react,qt,npm,pnpm,yarn,bun,prisma,django,docker,nodejs,deno)](https://skillicons.dev)
+[![Tool Icons](https://skillicons.dev/icons?i=pytorch,sklearn,opencv,nextjs,react,qt,npm,pnpm,yarn,bun,django,docker,nodejs,deno)](https://skillicons.dev)
 
 [![Editor Icons](https://skillicons.dev/icons?i=neovim)](https://skillicons.dev)
 
