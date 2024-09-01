@@ -10,6 +10,6 @@
 
 [![Tool Icons](https://skillicons.dev/icons?i=pytorch,sklearn,opencv,nextjs,react,svelte,qt,npm,pnpm,yarn,bun,django,docker,nodejs,deno)](https://skillicons.dev)
 
-[![Editor Icons](https://skillicons.dev/icons?i=neovim)](https://skillicons.dev)
+[![Editor Icons](https://skillicons.dev/icons?i=neovim)](https://skillicons.dev)  (btw)
 
-[![OS Icons](https://skillicons.dev/icons?i=arch)](https://skillicons.dev) (btw)
+[![OS Icons](https://skillicons.dev/icons?i=arch)](https://skillicons.dev)  (btw)
