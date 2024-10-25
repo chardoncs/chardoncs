@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 😄 Pronouns: he/him/his
-- 🙊 Languages: Mandarin (native), English, and Japanese
+- 🙊 Languages: `zh` Mandarin (native), `en` English, and `ja` Japanese
 - 🌎️ Preferred language: `en-us` (American English)
 - ⚡️ Fun fact: You're awesome!
 
