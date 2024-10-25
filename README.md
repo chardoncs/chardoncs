@@ -2,7 +2,7 @@
 
 - 😄 Pronouns: he/him/his
 - 🙊 Languages: Mandarin (native), English, and Japanese
-- 🙊 Preferred language: English
+- 🙊 Preferred language: American English
 - ⚡️ Fun fact: You're awesome!
 
 ![chardoncs's github stats](https://github-readme-stats.vercel.app/api?username=chardoncs&show_icons=true&bg_color=25,00132c,003247&text_color=e0f7fa&title_color=fce4ec&icon_color=f186c0)
