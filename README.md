@@ -5,7 +5,8 @@
 - 🌎️ Preferred language: `en-US` American English
 - ⚡️ Fun fact: You're awesome!
 
-![chardoncs's github stats](https://github-readme-stats.vercel.app/api?username=chardoncs&show_icons=true&bg_color=25,00132c,003247&text_color=e0f7fa&title_color=fce4ec&icon_color=f186c0)
+[![github stats](https://github-readme-stats.vercel.app/api?username=chardoncs&theme=tokyonight)](https://github.com/chardoncs)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chardoncs&layout=compact&theme=tokyonight)](https://github.com/chardoncs)
 
 [![Language Icons](https://skillicons.dev/icons?i=c,cpp,rust,go,js,ts,python,lua,julia,ruby,zig)](https://skillicons.dev)
 
