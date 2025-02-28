@@ -6,7 +6,7 @@ Pronouns: he/him
 
 I write some Rust, TypeScript, Zig, ...
 
-Btw's: Neovim, Arch, and recently Void
+Btw's: [Neovim](https://neovim.io), [Arch](https://archlinux.org), and recently [Void](https://voidlinux.org)
 
 Trilingual: <code title="Mandarin">zh</code> (native), <code title="English">en</code>, <code title="Japanese">ja</code>. Speaking and preferring <code title="American English">en-US</code> on the internet.
 
