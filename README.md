@@ -8,7 +8,7 @@ I write some Rust, TypeScript, Zig, ...
 
 Btw's: Neovim, Arch, and recently Void
 
-Trilingual: `zh` (native), `en`, `ja`. Speaking and preferring `en-US` on the internet.
+Trilingual: <code title="Mandarin">zh</code> (native), <code title="English">en</code>, <code title="Japanese">ja</code>. Speaking and preferring <code title="American English">en-US</code> on the internet.
 
 Currently working on: [Ollama Lab](https://github.com/chardoncs/ollama-lab)
 
