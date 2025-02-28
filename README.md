@@ -7,8 +7,8 @@
 
 > Me on the other side: https://codeberg.org/chardoncs
 
-[![github stats](https://github-readme-stats.vercel.app/api?username=chardoncs&theme=tokyonight)](https://github.com/chardoncs)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chardoncs&layout=compact&theme=tokyonight)](https://github.com/chardoncs)
+[![github stats](https://raw.githubusercontent.com/chardoncs/github-stats/refs/heads/master/generated/overview.svg#gh-dark-mode-only)](https://github.com/chardoncs)
+[![Top Langs](https://raw.githubusercontent.com/chardoncs/github-stats/1a69f06634b5231a2dcfefdd85388ea9b247a281/generated/languages.svg#gh-dark-mode-only)](https://github.com/chardoncs)
 
 [![Language Icons](https://skillicons.dev/icons?i=c,cpp,rust,go,js,ts,python,lua,julia,ruby,zig)](https://skillicons.dev)
 
