@@ -11,9 +11,9 @@ I write some Rust, TypeScript, Zig, ...
 
 Btw's: [Neovim](https://neovim.io), [Arch](https://archlinux.org), and recently [Void](https://voidlinux.org)
 
-Trilingual: <code title="Mandarin">zh</code> (native), <code title="English">en</code>, <code title="Japanese">ja</code>. Speaking and preferring <code title="American English">en-US</code> on the internet.
+Speaking languages: <code title="Mandarin">zh</code> (native), <code title="English">en</code>, <code title="Japanese">ja</code>. Speaking and preferring <code title="American English">en-US</code> on the internet.
 
-Currently working on: [Ollama Lab](https://github.com/chardoncs/ollama-lab)
+Currently working on: Learning Odin, useless side projects
 
 ### Stats
 
