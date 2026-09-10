@@ -13,6 +13,8 @@ Currently working on: Learning Odin, useless side projects
 
 ### Stats
 
+> Vibe coded projects excluded!
+
 ![](https://raw.githubusercontent.com/chardoncs/github-stats/refs/heads/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/chardoncs/github-stats/refs/heads/master/generated/overview.svg#gh-light-mode-only)
 ![](https://raw.githubusercontent.com/chardoncs/github-stats/refs/heads/master/generated/languages.svg#gh-dark-mode-only)
